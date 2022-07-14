@@ -6,7 +6,7 @@
         "appID": "79WNND69Y6.app.tabby.client",
         "paths": [
           "/account/purchase/*",
-          "*/merchant/*"
+          "/*/merchant/*"
         ]
       }
     ]
